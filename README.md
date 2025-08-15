@@ -14,3 +14,7 @@ Tomity
 ## Browser
 Firefox with duckduckgo as search engine
 
+## Emacs
+
+## Pandoc
+For document conversion.
